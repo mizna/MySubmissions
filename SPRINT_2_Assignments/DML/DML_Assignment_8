@@ -1,0 +1,2 @@
+delete tbl_stock from tbl_stock join tbl_supplier on fk_int_supplier=pk_i
+nt_supplier_id where vchr_supplier='Creative';

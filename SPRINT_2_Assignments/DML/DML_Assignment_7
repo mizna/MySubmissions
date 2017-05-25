@@ -1,0 +1,1 @@
+select vchr_name,int_quantity,float_price,int_quantity*float_price from tbl_stock;

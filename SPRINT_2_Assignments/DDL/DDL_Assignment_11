@@ -1,0 +1,5 @@
+insert into tbl_supplier values(null,'Logitech');
+insert into tbl_supplier values(null,'Samsung');
+insert into tbl_supplier values(null,'Iball');
+insert into tbl_supplier values(null,'LG');
+insert into tbl_supplier values(null,'Creative');

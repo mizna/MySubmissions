@@ -1,0 +1,1 @@
+select * from tbl_stock order by vchr_name asc;

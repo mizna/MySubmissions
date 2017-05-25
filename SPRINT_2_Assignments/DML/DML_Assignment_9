@@ -1,0 +1,4 @@
+insert into tbl_dept values(null,'Computer Science','CS');
+insert into tbl_dept values(null,'Electronics','EC);
+insert into tbl_dept values(null,'Commerce','CC');
+insert into tbl_dept values(null,'Arts','AR');

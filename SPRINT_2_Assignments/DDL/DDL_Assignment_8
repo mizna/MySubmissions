@@ -1,0 +1,5 @@
+CREATE TABLE `tbl_enrollment` (
+  `pk_int_enrollment_id` int(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  `int_count` int(11) DEFAULT NULL,
+  `fk_int_class_id` int(11) DEFAULT NULL,FOREIGN KEY(fk_int_class_id) REFERENCES tbl_classes(pk_int_class_id)
+);
